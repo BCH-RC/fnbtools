@@ -242,6 +242,6 @@ Please use file "wen.S1_alldeletion_uniq_annot.bed" in the example directory of 
 
 # Contact
 
-* Dr. Liang Sun    lsun@noble.org
+* Dr. Liang Sun    sunliang@udel.edu
 * Andrew Bancroft    acbancroft@noble.org
 * Yinbing Ge    yinge@noble.org
